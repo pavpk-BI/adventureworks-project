@@ -4,6 +4,10 @@ This project explores the **AdventureWorks** dataset using **SQL** and **Power B
 
 ---
 
+## 📄 Project Brief
+
+This project is based on a real-world business scenario. You can read the full business request [here](docs/business-request.md).
+
 ## 🚀 Project Overview
 
 **Goal:**  
