@@ -33,6 +33,16 @@ To analyze sales performance across different products, territories, and time pe
 
 ---
 
+## 🛠️ Data Setup
+
+To ensure the AdventureWorksDW dataset reflects current and realistic sales data, I used an update script provided by [TechTalk Corner](https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql).
+
+This script updates key date fields in the AdventureWorks Data Warehouse (e.g., `OrderDate`, `DueDate`, `ShipDate`) so that Power BI visuals and time-based analysis are more meaningful and relevant to today’s context.
+
+- 📄 Script used: [`Update_AdventureWorksDW_Data.sql`](https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql)
+
+Before running my SQL queries and building the Power BI dashboard, I executed this script in SQL Server Management Studio (SSMS).
+
 ## 🔧 Process Breakdown
 
 ### 1. Data Extraction (SQL)
