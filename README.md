@@ -38,6 +38,10 @@ To analyze sales performance across different products, territories, and time pe
 ### 1. Data Extraction (SQL)
 Used SQL to join, filter, and aggregate data from multiple normalized tables.
 
+## 🧾 SQL Queries
+
+All SQL queries used in this project are available in the [sql](./sql) folder. Each query aligns with a section of the Power BI dashboard and supports KPIs and visuals.
+
 Example query:
 
 ```sql
