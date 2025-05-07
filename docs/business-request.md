@@ -18,7 +18,7 @@ Essentially, we want to focus on:
 
 Each salesperson handles different products and customers, so it would be really helpful if the dashboard allows for filtering by these.
 
-We also track our performance against budget, so I’ve added the 2021 budget in a spreadsheet for comparison. We typically look two years back when analyzing sales trends.
+We also track our performance against budget, so I’ve added the 2025 budget in a spreadsheet for comparison. We typically look two years back when analyzing sales trends.
 
 Let me know if you need anything else!
 
