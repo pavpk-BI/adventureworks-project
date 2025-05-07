@@ -1,3 +1,12 @@
+## 📌 Business Demand Overview
+
+- **Reporter:** Steven – Sales Manager  
+- **Value of Change:** Visual dashboards and improved sales reporting to enhance follow-ups and optimize sales force effectiveness  
+- **Necessary Systems:** Power BI, CRM System  
+- **Other Relevant Info:** Budgets have been delivered in Excel for 2021  
+
+---
+
 ## 👥 User Stories
 
 | No. | As a (role)          | I want (request / demand)                         | So that I (user value)                                                  | Acceptance Criteria                                                                   |
