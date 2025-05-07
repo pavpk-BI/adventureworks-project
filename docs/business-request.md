@@ -1,12 +1,12 @@
 ## ✉️ Business Request (Email Style)
 
 **From:** Steven – Sales Manager  
-**To:** Ali – Business Intelligence Analyst  
+**To:** Pavitra – Business Intelligence Analyst  
 **Subject:** Visual Dashboard Request for Internet Sales Reporting  
 
 ---
 
-Hi Ali!
+Hi Pavitra,
 
 I hope you’re doing well. We need to improve our internet sales reports and want to move from static Excel reports to visual dashboards.
 
