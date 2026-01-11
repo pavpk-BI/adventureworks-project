@@ -1,6 +1,6 @@
 # 📊 AdventureWorks Sales Insights Dashboard
 
-This project explores the **AdventureWorks** dataset using **SQL** and **Power BI** to build a professional sales analytics dashboard. It showcases key business intelligence skills, including data extraction, transformation, modeling, and visualization to deliver actionable sales insights.
+This project explores the **AdventureWorks** dataset using **SQL** and **Power BI** to build a professional sales analytics dashboard. It showcases key business intelligence skills, including data extraction, transformation, modelling, and visualisation to deliver actionable sales insights.
 
 ---
 
@@ -11,11 +11,11 @@ This project is based on a real-world business scenario. You can read the full b
 ## 🚀 Project Overview
 
 **Goal:**  
-To analyze sales performance across different products, territories, and time periods for the AdventureWorks company. The aim is to identify key trends, performance metrics, and strategic opportunities through a visual Power BI dashboard.
+To analyse sales performance across different products, territories, and time periods for the AdventureWorks company. The aim is to identify key trends, performance metrics, and strategic opportunities through a visual Power BI dashboard.
 
 **Tools & Technologies:**
 - 🛠️ SQL Server: Data extraction and transformation
-- 📊 Power BI: Data modeling and dashboard creation
+- 📊 Power BI: Data modelling and dashboard creation
 - 📐 DAX: Calculated measures and KPIs
 - 📁 Power Query: Data shaping and cleaning
 
@@ -46,7 +46,7 @@ Before running my SQL queries and building the Power BI dashboard, I executed th
 ## 🔧 Process Breakdown
 
 ### 1. Data Extraction (SQL)
-Used SQL to join, filter, and aggregate data from multiple normalized tables.
+Used SQL to join, filter, and aggregate data from multiple normalised tables.
 
 ## 🧾 SQL Queries
 
@@ -68,7 +68,7 @@ JOIN DimDate d ON s.OrderDateKey = d.DateKey
 JOIN DimGeography g ON c.GeographyKey = g.GeographyKey;
 ```
 
-### 2. Data Modeling in Power BI
+### 2. Data Modelling in Power BI
 
 - Created relationships between fact and dimension tables.
 - Cleaned and transformed data using Power Query.
@@ -103,7 +103,7 @@ Developed an interactive Power BI dashboard featuring:
   Applied data transformation techniques to clean and shape data for analysis.
 
 - **Data modeling using star schema**  
-  Utilized best practices in data modeling to create an optimized, performance-efficient data model.
+  Utilised best practices in data modelling to create an optimised, performance-efficient data model.
 
 - **DAX measures and KPIs**  
   Created custom DAX calculations such as total sales, YoY growth, and other KPIs to support business analysis.
